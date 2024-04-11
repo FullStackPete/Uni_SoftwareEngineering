@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T06:24:50.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rAOyN5uTcUkjl28YrNQr" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T06:27:06.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UsM_ykY6ltD59uCm-2GZ" version="24.2.3" type="github">
   <diagram name="Page-1" id="wk2AoTRUK1Lbt7WLrZAH">
     <mxGraphModel dx="1713" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="58" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nU6jWRuM2qB8RluZMW--27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8nU6jWRuM2qB8RluZMW--3">
+        <mxCell id="8nU6jWRuM2qB8RluZMW--27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8nU6jWRuM2qB8RluZMW--6" target="8nU6jWRuM2qB8RluZMW--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="187" y="363" as="sourcePoint" />
             <mxPoint x="237" y="313" as="targetPoint" />
@@ -137,6 +137,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="242" y="337" as="sourcePoint" />
             <mxPoint x="-99" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nU6jWRuM2qB8RluZMW--38" value="Saldo&amp;gt;0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-166" y="17" width="62" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8nU6jWRuM2qB8RluZMW--39" value="Saldo&amp;lt;0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="15" width="62" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8nU6jWRuM2qB8RluZMW--40" value="Saldo&amp;lt;0&lt;br&gt;Okres&amp;gt;30 dni" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-9" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="8nU6jWRuM2qB8RluZMW--41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8nU6jWRuM2qB8RluZMW--10" target="8nU6jWRuM2qB8RluZMW--9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="95" as="sourcePoint" />
+            <mxPoint x="457" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
